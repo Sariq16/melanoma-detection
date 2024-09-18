@@ -26,7 +26,7 @@
             - Squamous cell carcinoma
             - Vascular lesion
         - Melanoma and mole images slightly dominate the dataset.
-    Impact:
+    - Impact:
         - The model has the potential to aid in the early detection of melanoma, significantly improving patient outcomes through timely diagnosis.
 
 ## Conclusions
